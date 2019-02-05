@@ -19,11 +19,18 @@ h2 {
     display: inline;
     padding: 10px;
 }
-a:active, a:visited, a:link {
+.navigacija a:active, a:visited, a:link {
     color:white;
     text-decoration: none;
 }
-a:hover{
+.navigacija a:hover{
     color: blue;
     text-decoration: none;
 }
+
+.sidebar a{
+    color:blue;
+    display: flex;
+    padding: 5px;
+}
+

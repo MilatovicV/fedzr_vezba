@@ -4,3 +4,26 @@ h1{
 h2 {
     color:lightgrey;
 }
+.navigacija{
+    background-color: black;
+    width:100%;
+    height: 50px;
+    color: white;
+}
+.navigacija ul{
+    list-style-type: none;
+    float: right;
+    margin-right: 10px;
+}
+.navigacija li{
+    display: inline;
+    padding: 10px;
+}
+a:active, a:visited, a:link {
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: none;
+}

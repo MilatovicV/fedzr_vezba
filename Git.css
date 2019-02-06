@@ -2,6 +2,14 @@
     margin: 0;
     padding: 0;
 }
+.header{
+    background-image: url('header.jpg');
+    height: 15vh;
+}
+.header h1{
+    color: white;
+    padding-top: 20px;
+}
 body{
     width: 80%;
     margin: auto;
